@@ -12,7 +12,9 @@ I used Python and the Pygame package to re-create the game Flappy bird.
 
 4.Run python main.py from the repo's directory
 
-5.Use Space to jump. Enjoy playing!
+5.Use Space to jump. 
+
+Enjoy playing!
 
 # ScreenShot:
 
